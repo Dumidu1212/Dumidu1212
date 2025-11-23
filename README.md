@@ -45,6 +45,6 @@ I thrive in creating solutions that are both intelligent and efficient — wheth
 - 🌐 [dumidu.dev]_(Coming soon!)_
 - 📬 dumidu.rajapaksa@gmail.com
 
-> “I don't just build code — I build agents that understand, learn, and serve.” 🚀
+> “I don't just build code I build agents that understand, learn, and serve.” 🚀
 
 ---
