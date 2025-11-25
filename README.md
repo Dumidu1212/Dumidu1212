@@ -1,43 +1,46 @@
-# 👨‍💻 Dumidu Rajapaksha
+# Hi there, I'm Dumidu Rajapaksha 👋
 
-### Software Engineering | Agentic AI | OS Development
+### Software Engineering Undergraduate | AI & Systems Enthusiast
 
-> Transforming ideas into intelligent, usable systems from agentic AI assistants to full-stack engineering solutions.
+> "Building systems from the kernel up to the agentic cloud."
 
 ---
 
 ## 🧠 About Me
 
-I am a Software Engineer passionate about combining agentic AI architectures with system level engineering. My work spans from building self refining AI assistants using Groq + Agno to experimenting with operating system development in C and Assembly.
+I am a Final Year Software Engineering Undergraduate at SLIIT, actively seeking Junior Software Engineering roles.
 
-I thrive in creating solutions that are both intelligent and efficient — whether it’s an AI powered PDF assistant, a multi language code analyzer, or a custom OS kernel project.
+My engineering journey is defined by a curiosity for how things work—whether it's writing an Operating System kernel in Assembly to understand memory, or architecting autonomous AI agents to automate complex workflows. I don't just write code; I build scalable, efficient systems.
 
-🌍 Based in **Sri Lanka**  
-💼 Currently developing agentic AI tools and exploring Linux kernel & OS fundamentals  
-🛠️ Skilled in: `C`, `C++`, `Python`, `JavaScript`, `Node.js`, `React`, `Java`, `MongoDB`, `PostgreSQL`, `Docker`, `OSGi`, `Flutter`, `Firebase`
+- 🌍 Based in **Sri Lanka**  
+- 🎓 Education: B.Sc. (Hons) in Information Technology (Specializing in SE) - Graduating 2026
+- 🔭 Focus: Agentic AI, Systems Programming, and Backend Architecture.
+- 🌱 Currently Learning: Advanced RAG patterns, Rust for Systems, and Linux Kernel Internals.
+- 🛠️ Skilled in: `HTML`, `CSS`, `C`, `C++`, `JavaScript`, `PHP`, `Java`, `MERN stack`,  `Python`, `SQL`, `PostgreSQL`, `Docker`, `OSGi`, `Flutter`, `Firebase`
 
 ---
 
-## 🔥 My Key Projects
+## 🏆 Featured Projects
 
-| 🧠 AI & Automation | ⚙️ Full Stack & Systems | 📱 Mobile & UI |
+### 🧠 Agentic AI & Systems
+Projects where I explore autonomous behavior and system architecture.
+
+| Project | Description| Tech Stack |
 |-------------------|------------------------|----------------|
-| [Agentic AI PDF Assistant](https://github.com/Dumidu1212/agentic_ai_pdf_assistant_agent) – LLM-powered PDF understanding using Groq, pgvector, and Agno. | [Code Analyzer](https://github.com/Dumidu1212/Code_Analyzer) – MERN stack app for multi-language code quality analysis. | [Driving School Management_System](https://github.com/Dumidu1212/driving_school_management_system.git) – Google Maps + payments + admin panel. |
-| [Finance Agent](https://github.com/Dumidu1212/agentic_ai_financial_agent) – Market analysis assistant using live stock data + web search. | [OSGi Smart Office System](https://github.com/Dumidu1212/OSGI-Smart-Office-Environment-Monitoring-System) – Modular Java system simulating smart sensors. | [Countries Explorer](https://github.com/Dumidu1212/Countries-Explorer) – React app with filters, favorites, region sort, dark mode. |
+| [Self-Optimizing Agent System](https://github.com/Dumidu1212/Self-Optimizing-Agent-Coordination-Response-System.git) | An autonomous graph-based system where AI agents critique and refine their own outputs to solve tasks without human intervention. |  `LangGraph` `Python` `pgvector` |
+| [MeetAI (SaaS)](https://github.com/Dumidu1212/meetAI.git) | A real-time meeting assistant. Uses RAG (Retrieval Augmented Generation) to index conversation history for semantic search. | `Next.js` `Vector DB` `React` |
+| [Financial Analyst Agent](https://github.com/Dumidu1212/agentic_ai_financial_agent.git) | A multi-agent orchestration tool that pulls live market data + web search to generate investment briefs. | `Agno` `FastAPI` `Groq` |
 
+### ⚙️ Core Engineering & Fundamentals
+Projects proving my understanding of how computers actually work.
+
+| Project | Description| Tech Stack |
+|-------------------|------------------------|----------------|
+| [Custom OS Kernel](https://github.com/Dumidu1212/building-an-os.git) | A 32-bit OS kernel built from scratch. Handles bootloading (Real to Protected mode), VGA drivers, and memory paging. | `Assembly (x86)` `C` `QEMU` |
+| [Cloud-Native Food Platform](https://github.com/Dumidu1212/cloud-native-food-ordering-and-delivery-platform.git) | Architected a scalable microservices backend with 7 decoupled services and containerized infrastructure. | `MERN` `Docker` |
+| [MultiLang Code Analyzer](https://github.com/Dumidu1212/Code_Analyzer.git) | A parsing engine using ANTLR to compute Cyclomatic Complexity metrics across different programming languages. | `ANTLR` `Abstract Syntax Trees` |
 
 ---
-
-## 🧭 Current Focus
-
-- ✅ Building **agentic AI systems** with persistent memory + multimodal tools.
-- ✅ Researching **self-refining agents** & autonomous LLM workflows.
-- ✅ Enhancing code analyzers with **semantic scoring** and **visual dashboards**.
-- ✅ Contributing to **open-source AI tooling** & education.
-
-
----
-
 
 ## 🤝 Let's Connect
 
@@ -45,6 +48,6 @@ I thrive in creating solutions that are both intelligent and efficient — wheth
 - 🌐 [dumidu.dev]_(Coming soon!)_
 - 📬 dumidu.rajapaksa@gmail.com
 
-> “I don't just build code I build agents that understand, learn, and serve.” 🚀
+> “Open to opportunities! Feel free to reach out.” 🚀
 
 ---
