@@ -1,6 +1,6 @@
 # Hi there, I'm Dumidu Rajapaksha 👋
 
-### Software Engineering Undergraduate | AI & Systems Enthusiast
+### Agentic AI Architecture & Systems Enthusiast
 
 > "Building systems from the kernel up to the agentic cloud."
 
@@ -8,15 +8,13 @@
 
 ## 🧠 About Me
 
-I am a Final Year Software Engineering Undergraduate at SLIIT, actively seeking Junior Software Engineering roles.
-
-My engineering journey is defined by a curiosity for how things work—whether it's writing an Operating System kernel in Assembly to understand memory, or architecting autonomous AI agents to automate complex workflows. I don't just write code; I build scalable, efficient systems.
+My engineering journey is defined by a curiosity for how things work—whether it's writing an Operating System kernel in Assembly to understand memory, or architecting autonomous AI agents to automate complex workflows. I don't just write code, I build scalable, efficient systems.
 
 - 🌍 Based in **Sri Lanka**  
 - 🎓 Education: B.Sc. (Hons) in Information Technology (Specializing in SE) - Graduating 2026
 - 🔭 Focus: Agentic AI, Systems Programming, and Backend Architecture.
 - 🌱 Currently Learning: Advanced RAG patterns, Rust for Systems, and Linux Kernel Internals.
-- 🛠️ Skilled in: `HTML`, `CSS`, `C`, `C++`, `JavaScript`, `PHP`, `Java`, `MERN stack`,  `Python`, `SQL`, `PostgreSQL`, `Docker`, `OSGi`, `Flutter`, `Firebase`
+- 🛠️ Skilled in: Agentic AI Architecture
 
 ---
 
