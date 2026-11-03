@@ -11,7 +11,7 @@
 My engineering journey is defined by a curiosity for how things work whether it's writing an Operating System kernel in Assembly to understand memory, or architecting autonomous AI agents to automate complex workflows. I don't just write code, I build scalable, efficient systems.
 
 - 🌍 Based in **Sri Lanka**  
-- 🎓 Education: B.Sc. (Hons) in Information Technology (Specializing in SE) - Graduating 2026
+- 🎓 Education: B.Sc. (Hons) in Information Technology Specializing in Software Engineering.
 - 🔭 Focus: Agentic AI, Systems Programming, and Backend Architecture.
 - 🌱 Currently Learning: Advanced RAG patterns, Rust for Systems, and Linux Kernel Internals.
 - 🛠️ Skilled in: Agentic AI Architecture
